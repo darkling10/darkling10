@@ -1,3 +1,5 @@
+<img src="https://github.com/darkling10/darkling10/blob/main/header.png">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkling10&label=Profile%20views&color=0e75b6&style=flat" alt="darkling10" /> </p>
 
 - 🌱 I’m currently learning **React and Redux**
