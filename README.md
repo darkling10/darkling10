@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### My self Abbas Pathan
+<img src="https://github.com/darkling10/darkling10/blob/main/header.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
