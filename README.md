@@ -6,13 +6,13 @@
 
 - 👨‍💻 All of my projects are available at [darkling10](https://github.com/darkling10)
 
-- 📫 How to reach me <a href="mailto:pathan.abbas10@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-
 - ⚡ Fun fact **I become super crazy when I am coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abbas pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbas pathan" height="30" width="40" /></a>
+&nbsp;<a href="mailto:pathan.abbas10@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
