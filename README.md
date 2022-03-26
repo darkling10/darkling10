@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [darkling10](https://github.com/darkling10)
 
-- ⚡ Fun fact **I become super crazy when I am coding**
+- ⚡ Fun fact **I am always eager to learn new Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
