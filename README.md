@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkling10&label=Profile%20views&color=0e75b6&style=flat" alt="darkling10" /> </p>
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Flutter and Dart**
 
 - 👨‍💻 All of my projects are available at [darkling10](https://github.com/darkling10)
 
